@@ -29,21 +29,6 @@
 💻 Tech Stack:
 C C++ Java JavaScript Markdown Python TypeScript Firebase Vercel Render React Vite Vue.js Webpack SQLite MongoDB MySQL Supabase Postgres Firebase Adobe Adobe Lightroom Framer Figma
 
-📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityalashkary1602&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityalashkary1602&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=adityalashkary1602&theme=tokyonight)
-
-🏆 GitHub Trophies
-
-
-✍️ Random Dev Quote
-
-
-🔝 Top Contributed Repo
-
 
 
 ## 📊 GitHub Stats
