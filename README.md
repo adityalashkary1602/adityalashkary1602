@@ -1,3 +1,13 @@
+
+## 📊 GitHub Stats
+
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityalashkary1602&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityalashkary1602&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=adityalashkary1602&theme=tokyonight)
+
+
 💫 About Me:
 🔭 I’m currently working on
 - Python development and building full-stack projects
@@ -30,11 +40,3 @@
 C C++ Java JavaScript Markdown Python TypeScript Firebase Vercel Render React Vite Vue.js Webpack SQLite MongoDB MySQL Supabase Postgres Firebase Adobe Adobe Lightroom Framer Figma
 
 
-
-## 📊 GitHub Stats
-
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityalashkary1602&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityalashkary1602&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=adityalashkary1602&theme=tokyonight)
